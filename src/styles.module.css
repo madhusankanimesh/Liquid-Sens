@@ -1,0 +1,19 @@
+/* styles.module.css */
+
+.menu {
+    display: flex;
+    justify-content: space-around; /* Adjust spacing as needed */
+  }
+  
+  .menuItem {
+    text-align: center;
+  }
+  
+  .icon {
+    /* Define icon styles */
+  }
+  
+  .name {
+    /* Define name styles */
+  }
+  
